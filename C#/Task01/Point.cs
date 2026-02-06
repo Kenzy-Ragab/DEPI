@@ -4,6 +4,6 @@ namespace Task01
 {
     internal class Point
     {
-        public int x = 0;
+        public int x = 0; 
     }
 }

@@ -21,7 +21,7 @@
             //float num1 = 5.2f;
             //float num2 = 6.12f;
             //Console.WriteLine($"Sum of numbers: {num1 + num2}");
-            ////To define a float, we must append the suffix "f" 
+            ////To define a float, we must append the suffix "f"
             #endregion
 
             #region Q4: Extract a substring
