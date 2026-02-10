@@ -1,0 +1,42 @@
+# Visual Studio Temp Files and Folders
+.vs/
+[Bb]in/
+[Oo]bj/
+out/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2022/2026 Cache
+.vsconfig
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Roslyn and Copilot Cache 
+.astylerc
+CopilotIndices/
+ProjectEvaluation/
+DesignTimeBuild/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+bld/
+
+# NuGet Packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Project-specific temp files
+*.ide/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.ids
+*.sln.cache
